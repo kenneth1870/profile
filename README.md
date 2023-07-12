@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kenneth1870" target="blank"><img src="https://img.shields.io/twitter/follow/kenneth1870?logo=twitter&style=for-the-badge" alt="kenneth1870" /></a> </p>
 
-- 🔭 I’m currently working on [Pixel506](https://github.com/Pixel506)
+- 🔭 I’m currently looking for new opportunities 
 
 - 🌱 I’m currently learning **AWS**
 
